@@ -1,0 +1,13 @@
+/* Add your custom extension styling here */
+
+.ramswap-ok {
+    color: #444444;
+}
+
+.ramswap-warn {
+    color: #ffc252;
+}
+
+.ramswap-critical {
+    color: #ed333b;
+}

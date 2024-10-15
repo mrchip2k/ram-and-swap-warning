@@ -1,0 +1,8 @@
+{
+  "name": "RAM and Swap Warning",
+  "description": "Show RAM and/or Swap usage only if they reach a critical level.",
+  "uuid": "ramandswapwarning@mrchip2k.github.com",
+  "shell-version": [
+    "42"
+  ]
+}

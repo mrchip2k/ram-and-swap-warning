@@ -18,6 +18,7 @@
 
 /* exported init */
 
+// what is this
 const GETTEXT_DOMAIN = 'my-indicator-extension';
 
 const { GObject, St } = imports.gi;

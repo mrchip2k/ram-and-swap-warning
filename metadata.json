@@ -1,7 +1,7 @@
 {
   "name": "RAM and Swap Warning",
-  "description": "Show RAM and/or Swap usage only if they reach a critical level.",
-  "uuid": "ramandswapwarning@mrchip2k.github.com",
+  "description": "Discrete icons that light up when RAM/swap usage gets critical.",
+  "uuid": "ram-and-swap-warning@mrchip2k.github.com",
   "shell-version": [
     "42"
   ]
